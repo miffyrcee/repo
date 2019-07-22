@@ -1,0 +1,5 @@
+[mirrors.tuna.tsinghua.edu.cn_fzug_free_28_x86_64_]
+name=created by dnf config-manager from https://mirrors.tuna.tsinghua.edu.cn/fzug/free/28/x86_64/
+baseurl=https://mirrors.tuna.tsinghua.edu.cn/fzug/free/28/x86_64/
+enabled=1
+gpgcheck=0
