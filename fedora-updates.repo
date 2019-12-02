@@ -1,9 +1,5 @@
 [updates]
-name=Fedora $releasever - $basearch - Updates
-failovermethod=priority
-baseurl=https://mirrors.tuna.tsinghua.edu.cn/fedora/updates/$releasever/Everything/$basearch/
+name=Fedora $releasever - $basearch - Updates - aliyun
+baseurl=http://mirrors.aliyun.com/fedora/updates/$releasever/Everything/$basearch/
 enabled=1
 gpgcheck=0
-metadata_expire=6h
-gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-fedora-$releasever-$basearch
-skip_if_unavailable=False
