@@ -2,3 +2,4 @@
 name=created by dnf config-manager from https://mirrors.aliyun.com/rpmfusion/nonfree/fedora/releases/31/Everything/x86_64/os/
 baseurl=https://mirrors.aliyun.com/rpmfusion/nonfree/fedora/releases/31/Everything/x86_64/os/
 enabled=1
+gpgcheck=0
