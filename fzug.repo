@@ -1,0 +1,5 @@
+[fzug]
+name=Fzug $releasever - $basearch
+baseurl=https://mirrors.tuna.tsinghua.edu.cn/fzug/free/$releasever/$basearch/
+enabled=1
+gpgcheck=0

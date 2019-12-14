@@ -1,4 +1,0 @@
-[packages.microsoft.com_fedora_30_prod_]
-name=created by dnf config-manager from https://packages.microsoft.com/fedora/30/prod/
-baseurl=https://packages.microsoft.com/fedora/30/prod/
-enabled=1
