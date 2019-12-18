@@ -1,5 +1,5 @@
-[rpm.metasploit.com_]
-name=created by dnf config-manager from https://rpm.metasploit.com/
+[metasploit]
+name=Metasploit
 baseurl=https://rpm.metasploit.com/
 enabled=1
 gpgcheck=0

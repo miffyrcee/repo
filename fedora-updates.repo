@@ -1,7 +1,8 @@
 [updates]
 name=Fedora $releasever - $basearch - Updates
 failovermethod=priority
-baseurl=https://mirrors.tuna.tsinghua.edu.cn/fedora/updates/$releasever/Everything/$basearch/
+; baseurl=https://mirrors.tuna.tsinghua.edu.cn/fedora/updates/$releasever/Everything/$basearch/
+baseurl=https://mirrors.aliyun.com/fedora/updates/$releasever/Everything/$basearch/
 enabled=1
 gpgcheck=0
 metadata_expire=6h
