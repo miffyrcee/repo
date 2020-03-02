@@ -1,5 +1,5 @@
 [metasploit]
-name=Metasploit
+name=metasploit
 baseurl=https://rpm.metasploit.com/
 enabled=1
 gpgcheck=0
