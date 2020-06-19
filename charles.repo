@@ -1,0 +1,5 @@
+[charles]
+name=charles
+baseurl=https://www.charlesproxy.com/packages/yum
+enabled=1
+gpgcheck=0

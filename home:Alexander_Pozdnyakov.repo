@@ -1,0 +1,7 @@
+[home_Alexander_Pozdnyakov]
+name=home:Alexander_Pozdnyakov (Fedora_31)
+type=rpm-md
+baseurl=http://download.opensuse.org/repositories/home:/Alexander_Pozdnyakov/Fedora_31/
+gpgcheck=1
+gpgkey=http://download.opensuse.org/repositories/home:/Alexander_Pozdnyakov/Fedora_31/repodata/repomd.xml.key
+enabled=1
